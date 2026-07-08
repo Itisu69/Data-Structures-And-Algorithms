@@ -2,6 +2,7 @@
 .vscode/
 .venv/
 current_env/
+.idea/
 
 # Build system files
 CMakeLists.txt
