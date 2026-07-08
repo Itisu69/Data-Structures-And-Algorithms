@@ -1,0 +1,18 @@
+Here solution of any problem can be written in any language depending on using
+which language it will be easier for me to solve the problems.
+
+Although I will try to write most of the answers in C++ and then C (as i know much about C than any other language), but if i feel 
+that using any of those language is way more difficult and i just want to focus
+on problem solving part i will then and only then write code in python, and I 
+will avoid it as much as possible.
+
+There will be subfolders in language named folders to easily track from which topic
+the problem is
+
+so priority of using language to solve the problem is:
+C++ > C > Python (avoid using python as long as possible)
+
+Throughout this journey i'll solve problems and logic and approach
+will be in the notebook im taking notes in which is nicely explained
+so if you(my future self) have to revise or forget some things or answers
+to certain problems, check it out (gotta find between so many pages 🥀🥀)

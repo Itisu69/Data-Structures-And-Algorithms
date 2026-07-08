@@ -1,0 +1,29 @@
+# Local IDE and Environment folders
+.vscode/
+.venv/
+current_env/
+
+# Build system files
+CMakeLists.txt
+cmake-build-debug/
+cmake-build-release/
+
+# Temporary competitive programming files
+leet_practice.cpp
+leet_practice
+input.txt
+output.txt
+
+# OS-specific clutter
+.DS_Store
+
+# Block compiled executables (Linux/macOS binaries have no extension)
+*
+!*/
+!*.*
+
+# Block Windows executables and debug symbols
+*.exe
+*.out
+*.o
+*.pstat
